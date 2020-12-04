@@ -1,0 +1,60 @@
+
+“
+java:S1319¡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ª·×Ïùÿÿÿÿ8§ÿÔı×.
+“
+java:S1319Å"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æ¶®¤şÿÿÿÿ8§ÿÔı×.
+G
+java:S1068"+Remove this unused "context" private field.(êİç8Øø”û×.
+’
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹ÿçùÿÿÿÿ8à¶şı×.
+“
+java:S1319ë"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(êÉÖÚıÿÿÿÿ8İìÊı×.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÅĞøÎ8Ú…Ôı×.
+r
+java:S1192*"PDefine a constant instead of duplicating this literal "SELECT * FROM " 15 times.(¦×³ÿÿÿÿÿ8Ú…Ôı×.
+
+java:S1319³"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËˆĞç8§ÿÔı×.
+k
+java:S1192*"IDefine a constant instead of duplicating this literal " WHERE " 47 times.(¦×³ÿÿÿÿÿ8ø³³ı×.
+“
+java:S1319ı"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÕÎçıÿÿÿÿ8Ú…Ôı×.
+
+java:S1319Ù"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ì˜Ù8ÀÂ¤ü×.
+“
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏËÃ‹ùÿÿÿÿ8²Á­»Ü.
+“
+java:S1319¢"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–’¦ùÿÿÿÿ8²Á­»Ü.
+“
+java:S1319´"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£İ¼šşÿÿÿÿ8²Á­»Ü.
+
+java:S1319Æ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÓùÁ‘8²Á­»Ü.
+“
+java:S1319Ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ã×úÿÿÿÿ8²Á­»Ü.
+“
+java:S1319ê"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¡­¾üÿÿÿÿ8²Á­»Ü.
+“
+java:S1319ü"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(°¾±ƒøÿÿÿÿ8²Á­»Ü.
+l
+java:S1192“"IDefine a constant instead of duplicating this literal "=\"sun\"" 3 times.(÷–¦üüÿÿÿÿ8²Á­»Ü.
+k
+java:S1192‘"HDefine a constant instead of duplicating this literal " FROM " 32 times.(ÕŠÂ°ûÿÿÿÿ8²Á­»Ü.
+l
+java:S1192‘"IDefine a constant instead of duplicating this literal "SELECT " 32 times.(ÕŠÂ°ûÿÿÿÿ8²Á­»Ü.
+l
+java:S1192Û"IDefine a constant instead of duplicating this literal "=\"thu\"" 3 times.(’¤÷æùÿÿÿÿ8²Á­»Ü.
+g
+java:S1192¥"IDefine a constant instead of duplicating this literal "=\"mon\"" 3 times.(µç‡8²Á­»Ü.
+l
+java:S1192ÿ"IDefine a constant instead of duplicating this literal "=\"sat\"" 3 times.(ŸÉµúÿÿÿÿ8²Á­»Ü.
+l
+java:S1192í"IDefine a constant instead of duplicating this literal "=\"fri\"" 3 times.(§íÅˆıÿÿÿÿ8²Á­»Ü.
+l
+java:S1192·"IDefine a constant instead of duplicating this literal "=\"tue\"" 3 times.(Ñ¯¥ûÿÿÿÿ8²Á­»Ü.
+l
+java:S1192É"IDefine a constant instead of duplicating this literal "=\"wed\"" 3 times.(úˆÆÖúÿÿÿÿ8²Á­»Ü.
+j
+java:S1192“"GDefine a constant instead of duplicating this literal " AND " 35 times.(÷–¦üüÿÿÿÿ8²Á­»Ü.
+h
+java:S1192Ì"JDefine a constant instead of duplicating this literal "=\"not\"" 14 times.(·Àˆ×8²Á­»Ü.
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(ôãéÙ8²Á­»Ü.

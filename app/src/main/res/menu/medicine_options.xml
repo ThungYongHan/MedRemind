@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_sun_med"
+        android:title="View Sunday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_mon_med"
+        android:title="View Monday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_tue_med"
+        android:title="View Tuesday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_wed_med"
+        android:title="View Wednesday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_thu_med"
+        android:title="View Thursday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_fri_med"
+        android:title="View Friday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_sat_med"
+        android:title="View Saturday Medicines"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_all_med"
+        android:title="View Entire Medicine List"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_medicines"
+        android:title="Delete All Medicines"
+        app:showAsAction="never" />
+
+</menu>

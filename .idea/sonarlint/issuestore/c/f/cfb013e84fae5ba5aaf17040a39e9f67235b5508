@@ -1,0 +1,26 @@
+
+A
+java:S1659I"$Declare "medMon" on a separate line.(øŞ½à8òÆõş×.
+›
+java:S1319"yThe type of the "medicineModels" object should be an interface such as "List" rather than the implementation "ArrayList".(ò‹’¹úÿÿÿÿ8ôãş×.
+A
+java:S1659I"$Declare "medSun" on a separate line.(øŞ½à8òÆõş×.
+A
+java:S1659I"$Declare "medThu" on a separate line.(øŞ½à8òÆõş×.
+A
+java:S1659I"$Declare "medTue" on a separate line.(øŞ½à8òÆõş×.
+B
+java:S1659I"%Declare "medTime" on a separate line.(øŞ½à8òÆõş×.
+D
+java:S1659I"'Declare "medDosage" on a separate line.(øŞ½à8ôãş×.
+A
+java:S1659I"$Declare "medWed" on a separate line.(øŞ½à8ôãş×.
+A
+java:S1659I"$Declare "medFri" on a separate line.(øŞ½à8òÆõş×.
+A
+java:S1659I"$Declare "medSat" on a separate line.(øŞ½à8òÆõş×.
+B
+java:S1659J"%Declare "editMed" on a separate line.(šÕÃò8®Á­»Ü.
+n
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ó¼38®Á­»Ü.
+^	java:S125µ"<This block of commented-out lines of code should be removed.(è˜öÎÿÿÿÿÿ8®Á­»Ü.

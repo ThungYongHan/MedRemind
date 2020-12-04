@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_today_appointments"
+        android:title="View Appointments for Today"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_all_appointments"
+        android:title="View Entire Appointment List"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_all_appointments"
+        android:title="Delete All Appointments"
+        app:showAsAction="never" />
+
+
+</menu>

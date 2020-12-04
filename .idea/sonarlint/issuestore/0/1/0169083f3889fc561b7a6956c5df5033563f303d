@@ -1,0 +1,17 @@
+
+}	java:S116"\Rename this field "AppointmentModels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÍ›Ÿüÿÿÿÿ8ó½”ĞÖ.
+}
+java:S1450"[Remove the "appointments" field and declare it as a local variable in the relevant methods.(†¦“Ìùÿÿÿÿ8‡ĞÖ.
+}
+java:S1450"[Remove the "linearLayout" field and declare it as a local variable in the relevant methods.(Ãîìêúÿÿÿÿ8‡ĞÖ.
+
+java:S1450"bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„ñš8µÛĞÖ.
+=
+java:S1700"Rename field "appointments"(†¦“Ìùÿÿÿÿ8çˆ€ĞÖ.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ôß§³şÿÿÿÿ
+k
+java:S1128"IRemove this unused import 'androidx.recyclerview.widget.ItemTouchHelper'.(’Šíûÿÿÿÿ8˜ñš¨×.
+m
+java:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8êßéÇ×.
+‚
+java:S1450"`Remove the "AppointmentModels" field and declare it as a local variable in the relevant methods.(ÊÍ›Ÿüÿÿÿÿ8õ—ĞÖ.

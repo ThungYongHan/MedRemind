@@ -1,0 +1,206 @@
+
+D	java:S131…""Add a default case to this switch.(ì»¾úÿÿÿÿ8Æœáı×.
+h
+java:S2184n"FCast one of the operands of this multiplication operation to a "long".(ÓÓÇøÿÿÿÿ8ª‰ŸõÖ.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬àÇÂüÿÿÿÿ8Ì„¨ı×.
+u	java:S1164"YRename this field "MedicineModels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îª—8Íæ¦ı×.
+L
+java:S1874N"/Remove this use of "Handler"; it is deprecated.(õÊëì8Ì„¨ı×.
+
+java:S14503"bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„ñš8Á¼¥ı×.
+¤
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8Ì„¨ı×.
+R
+java:S10686"0Remove this unused "linearLayout" private field.(Ãîìêúÿÿÿÿ8Ì„¨ı×.
+z
+java:S14504"]Remove the "MedicineModels" field and declare it as a local variable in the relevant methods.(Îª—8Íæ¦ı×.
+X	java:S1101"<This class has 9 parents which is greater than 5 authorized.(ƒ¿8ª‰ŸõÖ.
+|
+java:S14502"ZRemove the "daymedicine" field and declare it as a local variable in the relevant methods.(Œ³…üşÿÿÿÿ8•Ş§ş×.
+u
+java:S1450;"XRemove the "mAddWater" field and declare it as a local variable in the relevant methods.(Å£ü‚8ÄãåÌÎ.
+z
+java:S1192í"WDefine a constant instead of duplicating this literal "myApp:notificationLock" 7 times.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+m
+java:S1192ª"ODefine a constant instead of duplicating this literal "Medicine Alert" 7 times.(¼½Õ‹8Êˆ¯»Ü.
+j
+java:S1192”"GDefine a constant instead of duplicating this literal "HH:mm" 14 times.(Ê‡ãÿÿÿÿÿ8Êˆ¯»Ü.
+z
+java:S1192«"\Define a constant instead of duplicating this literal "Please take your medicine: " 7 times.(àâóØ8Êˆ¯»Ü.
+v
+java:S1192´"XDefine a constant instead of duplicating this literal "Medicine has been taken" 7 times.(å‹8Êˆ¯»Ü.
+L
+java:S1066["/Merge this if statement with the enclosing one.(õí­É8Êˆ¯»Ü.
+i
+java:S2184Ò"FCast one of the operands of this multiplication operation to a "long".(ÓÓÇøÿÿÿÿ8Êˆ¯»Ü.
+d
+java:S2184’"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184Ú"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184¨"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184ò"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184»"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184ƒ"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+d
+java:S2184Ó"FCast one of the operands of this multiplication operation to a "long".(ƒóùÎ8Êˆ¯»Ü.
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¯ò8Êˆ¯»Ü.
+m	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸äûd8Êˆ¯»Ü.
+n	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÂİ«8Êˆ¯»Ü.
+s	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¡àÑşÿÿÿÿ8Êˆ¯»Ü.
+s	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‘÷¯ûÿÿÿÿ8Êˆ¯»Ü.
+s	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÁÃÉøÿÿÿÿ8Êˆ¯»Ü.
+n	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öì¹„8Êˆ¯»Ü.
+n	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¢Ô™8Êˆ¯»Ü.
+O
+java:S16597"-Declare "testMediaPlayer" on a separate line.(óÊŸ¿ùÿÿÿÿ8Êˆ¯»Ü.
+G
+java:S1659="*Declare "txtTimerHour" on a separate line.(¤¨§¹8Êˆ¯»Ü.
+I
+java:S1659=",Declare "txtTimerMinute" on a separate line.(¤¨§¹8Êˆ¯»Ü.
+I
+java:S1659=",Declare "txtTimerSecond" on a separate line.(¤¨§¹8Êˆ¯»Ü.
+A
+java:S1659="$Declare "tvTest" on a separate line.(¤¨§¹8Êˆ¯»Ü.
+E	java:S108h")Either remove or fill this block of code.(á¢–¬8Êˆ¯»Ü.
+E	java:S108z")Either remove or fill this block of code.(á¢–¬8Êˆ¯»Ü.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(”±À´8Êˆ¯»Ü.
+M
+java:S1874¢"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+u
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(°Æëöıÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874ˆ"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874¤"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+M
+java:S1874Ğ"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125à"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874í"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(ÓÎƒø8Êˆ¯»Ü.
+R
+java:S1905…"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905‡"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905‰"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125®"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874»"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+R
+java:S1905Ï"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905Ñ"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905Ó"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874è"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125÷"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874„"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+R
+java:S1905™"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905›"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874±"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874Í"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+R
+java:S1905á"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905ã"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905å"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874ù"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874•"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+R
+java:S1905©"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905«"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905­"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+^	java:S125Á"<This block of commented-out lines of code should be removed.(Ä•Òüÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874É"/Remove this use of "Handler"; it is deprecated.(õÊëì8Êˆ¯»Ü.
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(ÔÌêûÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125Ù"<This block of commented-out lines of code should be removed.(½–×‡8Êˆ¯»Ü.
+M
+java:S1874æ"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+R
+java:S1905ú"/Remove this unnecessary cast to "MainActivity".(í¨ùíşÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905ü"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+R
+java:S1905ş"/Remove this unnecessary cast to "MainActivity".(ÂÌ—ûÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874è"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874ë"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874í"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125û"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125„"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874ˆ"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874‹"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125£"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874§"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874ª"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874¬"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125º"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874Ç"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874Ê"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874Ì"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125Ú"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125ã"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874ç"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874ê"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874ì"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125ú"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874‡"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874Š"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874Œ"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(“©‡—8Êˆ¯»Ü.
+^	java:S125£"<This block of commented-out lines of code should be removed.(“Ÿ€£úÿÿÿÿ8Êˆ¯»Ü.
+M
+java:S1874§"/Remove this use of "vibrate"; it is deprecated.(£‹ÿâ8Êˆ¯»Ü.
+P
+java:S1874ª"2Remove this use of "isScreenOn"; it is deprecated.(èÎƒı8Êˆ¯»Ü.
+_
+java:S1874¬"<Remove this use of "SCREEN_DIM_WAKE_LOCK"; it is deprecated.(š¾‰úÿÿÿÿ8Êˆ¯»Ü.
+k	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÆÕ¼8Êˆ¯»Ü.

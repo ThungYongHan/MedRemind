@@ -1,0 +1,33 @@
+
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8âØ×ş×.
+s
+java:S1450"WRemove the "medicine" field and declare it as a local variable in the relevant methods.(ñ¥İO8Ôû«ş×.
+3
+java:S1700"Rename field "medicine"(ñ¥İO8ºÌ¦ş×.
+k
+java:S1128"IRemove this unused import 'androidx.recyclerview.widget.ItemTouchHelper'.(’Šíûÿÿÿÿ8âØ×ş×.
+]	java:S110"<This class has 9 parents which is greater than 5 authorized.(µŸ†Úüÿÿÿÿ8­ëôı×.
+a
+java:S1128"?Remove this unused import 'androidx.appcompat.app.AlertDialog'.(¼Ìï¨üÿÿÿÿ8âØ×ş×.
+z
+java:S1450"]Remove the "MedicineModels" field and declare it as a local variable in the relevant methods.(Îª—8Öñ¸ş×.
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8âØ×ş×.
+S
+java:S1128"6Remove this unused import 'android.view.MenuInflater'.(¥ñ´Ò8âØ×ş×.
+
+java:S1450"bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„ñš8­ëôı×.
+w
+java:S1450 "ZRemove the "medDBHelper" field and declare it as a local variable in the relevant methods.(ùá„…8Ø“¯ş×.
+}
+java:S1450"[Remove the "linearLayout" field and declare it as a local variable in the relevant methods.(Ãîìêúÿÿÿÿ8­ëôı×.
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8âØ×ş×.
+u	java:S116"YRename this field "MedicineModels" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îª—8„µöı×.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8âØ×ş×.
+^
+java:S1128"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨şÿÿÿÿ8âØ×ş×.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8âØ×ş×.

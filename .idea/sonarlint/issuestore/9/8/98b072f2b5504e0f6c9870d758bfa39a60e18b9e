@@ -1,0 +1,63 @@
+
+E
+java:S1659'"#Declare "cbMon" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+E
+java:S1659'"#Declare "cbWed" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+o
+java:S1128"MRemove this unused import 'androidx.recyclerview.widget.LinearLayoutManager'.(ôœ¹ºıÿÿÿÿ8ÿàâ÷×.
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8Éíåö×.
+h
+java:S1128"FRemove this unused import 'androidx.recyclerview.widget.RecyclerView'.(Îèòçøÿÿÿÿ8®¡à÷×.
+@
+java:S1659"$Declare "etDose" on a separate line.(ïØùM8Ø¢·ù×.
+S
+java:S1128"6Remove this unused import 'android.view.MenuInflater'.(¥ñ´Ò8Éíåö×.
+v
+java:S1450'"TRemove the "cbFri" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+x
+java:S1450'"VRemove the "cbEvery" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+v
+java:S1450'"TRemove the "cbSun" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+>	java:S131P""Add a default case to this switch.(ºÖ8Æ‹ú×.
+E
+java:S1659'"#Declare "cbTue" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+B
+java:S1659"%Declare "medTime" on a separate line.(¼›µ†8¼öËú×.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿàâ÷×.
+Z
+java:S1128"8Remove this unused import 'android.widget.LinearLayout'.(çîšçúÿÿÿÿ8ÿàâ÷×.
+v
+java:S1450'"TRemove the "cbMon" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+v
+java:S1450'"TRemove the "cbThu" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+M
+java:S1172>"+Remove this unused method parameter "view".(¢»Ÿøÿÿÿÿ8ğµ‰ú×.
+B
+java:S1659"%Declare "medDose" on a separate line.(¼›µ†8óõÅú×.
+E
+java:S1659'"#Declare "cbSat" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+v
+java:S1450'"TRemove the "cbWed" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+v
+java:S1450'"TRemove the "cbTue" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+E
+java:S1659'"#Declare "cbSun" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+t
+java:S1450("WRemove the "btAddMed" field and declare it as a local variable in the relevant methods.(½Ì—8Â“ƒù×.
+I
+java:S1172Œ"+Remove this unused method parameter "view".(¡Ùˆ¢8Æ‹ú×.
+v
+java:S1450'"TRemove the "cbSat" field and declare it as a local variable in the relevant methods.(çÂ¥°øÿÿÿÿ8–™äû×.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(Èˆ§ë8Ñ€Û¡Ö.
+W
+java:S1128":Remove this unused import 'android.widget.CompoundButton'.(®½¤Ş8¯°ø×.
+E
+java:S1659'"#Declare "cbThu" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+E
+java:S1659'"#Declare "cbFri" on a separate line.(çÂ¥°øÿÿÿÿ8–™äû×.
+t
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÊÄÚ²úÿÿÿÿ8Æ‹ú×.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8à¶¶ú×.

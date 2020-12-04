@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedRemind</string>
+    <string name="water_name">Water Intake</string>
+    <string name="enter_medicine_name_hint">Enter Medicine Name</string>
+    <string name="everyday_check">Every Day</string>
+    <string name="settings_menu">Settings</string>
+    <string name="new_appointments_menu">New Appointments</string>
+    <string name="appointments_list_menu">Appointments</string>
+    <string name="no_appointments_text">No appointment found</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

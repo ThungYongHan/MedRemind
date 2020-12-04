@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_sun_graph"
+        android:title="View Sunday's Statistics"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/view_mon_graph"
+        android:title="View Monday's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_tue_graph"
+        android:title="View Tuesday's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_wed_graph"
+        android:title="View Wednesday's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_thu_graph"
+        android:title="View Thursday's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_fri_graph"
+        android:title="View Fridays's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_sat_graph"
+        android:title="View Saturdays's Statistics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_weekly_graph"
+        android:title="View Weekly Statistics"
+        app:showAsAction="never" />
+
+</menu>
