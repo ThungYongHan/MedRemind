@@ -2,7 +2,7 @@
 
 MedRemind is a healthcare-oriented reminder app
 
-Demo Video Link: https://www.youtube.com/watch?v=dPJiM2z6WhM&t=86s
+Demo video link: https://www.youtube.com/watch?v=dPJiM2z6WhM&t=86s
 
 Medicine
 -	Add, edit or delete medicines with error handling
